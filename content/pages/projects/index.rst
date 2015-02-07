@@ -32,7 +32,7 @@ The Astropy Project is a community effort to develop a single core package for A
 
 .. image:: /media/img/projects/data_carpentry.png
     :alt: Data Carpentry Logo
-    :height: 50px
+    :height: 65px
 
 .. raw:: html
 
@@ -52,7 +52,7 @@ Data Carpentry, a sister organization to Software Carpentry, aims to teach basic
 --------------
 .. image:: /media/img/projects/ipython.png
     :alt: IPython logo
-    :height: 50px
+    :height: 65px
 
 
 .. raw:: html
