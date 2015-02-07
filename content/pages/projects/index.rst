@@ -4,7 +4,7 @@ Projects
 :save_as: projects/index.html
 
 
-Fiscally Sponsored Projects 
+Fiscally Sponsored Projects
 ===========================
 
 `AstroPy`_
@@ -25,6 +25,27 @@ Fiscally Sponsored Projects
    </div>
 
 The Astropy Project is a community effort to develop a single core package for Astronomy in Python and foster interoperability between Python astronomy packages.
+
+
+`Data Carpentry`_
+------------------
+
+.. image:: /media/img/projects/data_carpentry.png
+    :alt: Data Carpentry Logo
+    :height: 50px
+
+.. raw:: html
+
+   <div style="float:right">
+   <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+   <input type="hidden" name="cmd" value="_s-xclick">
+   <input type="hidden" name="hosted_button_id" value="XSNKV42ZUFCF4">
+   <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+   <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+   </form>
+   </div>
+
+Data Carpentry, a sister organization to Software Carpentry, aims to teach basic concepts, skills and tools for working more effectively with data. We are a community that develops lessons and runs workshops to teach researchers the skills to organize, manage and analyze data in a more efficient and reproducible way.
 
 
 `IPython`_
@@ -137,7 +158,7 @@ possible in order to be comprehensible and easily extensible. SymPy is written
 entirely in Python and does not require any external libraries.
 
 
-Other Supported Projects 
+Other Supported Projects
 ========================
 
 
@@ -146,7 +167,7 @@ Other Supported Projects
 .. image:: /media/img/projects/NumPY.png
     :alt: NumPy logo
     :height: 65px
-    
+
 NumPy is the fundamental package needed for scientific computing with Python.
 Besides its obvious scientific uses, NumPy can also be used as an efficient
 multi-dimensional container of generic data. Arbitrary data-types can be
@@ -185,7 +206,7 @@ application servers, and six graphical user interface toolkits.
 
 Cython is an optimising static compiler for both the Python programming
 language and the extended Cython programming language (based on Pyrex). It
-makes writing C extensions for Python as easy as Python itself. 
+makes writing C extensions for Python as easy as Python itself.
 
 
 `pandas`_
@@ -230,7 +251,7 @@ programmimg language.
 .. image:: /media/img/projects/scikitsimage.png
     :alt: Scikit-Image logo
     :height: 65px
-    
+
 Free high-quality and peer-reviewed volunteer produced collection of algorithms
 for image processing.
 
@@ -286,11 +307,11 @@ mathematical expressions involving multi-dimensional arrays efficiently.
 yt is a community-developed analysis and visualization toolkit for examining
 datasets in a variety of scientific disciplines. yt aims to provide a simple
 uniform way of handling volumetric data, regardless of where it is generated.
-yt is developed in Python under the open-source model. 
+yt is developed in Python under the open-source model.
 
 
 
-Educational Projects 
+Educational Projects
 ====================
 
 inSCIght
@@ -299,7 +320,7 @@ inSCIght
 .. image:: |filename|/media/img/projects/InSciGHT.jpg
     :alt: InSCIght logo
     :height: 75px
-    
+
 
 `inSCIght`_ is a podcast that focuses on scientific computing in all of its
 various forms. We have four panelists engage head-to-head on poignant and
@@ -323,6 +344,7 @@ entice each other and the world.  `http://inscight.org`_
 
 .. _project-proposal:
 .. _AstroPy: http://www.astropy.org/
+.. _Data Carpentry: http://datacarpentry.org/
 .. _NumPy: http://numpy.scipy.org/
 .. _SciPy: http://www.scipy.org/
 .. _Matplotlib: http://matplotlib.sourceforge.net/
