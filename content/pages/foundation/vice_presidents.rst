@@ -30,8 +30,8 @@ VP of Technology: Sheila Miguez
     :height: 150px
     :alt: Sheila Miguez
 
-Sheila is a open science enthusiast and software developer at Canonical. She has been heavily involved with the SciPy Conferences, PyVideo, and Chicago Python meetup groups. Previously, she was a lead developer for the open science webspace `Research Compendia`_
+Sheila is a open science enthusiast and software developer at Canonical. She has been heavily involved with the SciPy Conferences, PyVideo, and Chicago Python meetup groups. Previously, she was a lead developer for the open science webspace `Research Compendia`_.
 
 
 
-_`Research Compendia`: http://researchcompendia.org/
+.. _Research Compendia: http://researchcompendia.org/
