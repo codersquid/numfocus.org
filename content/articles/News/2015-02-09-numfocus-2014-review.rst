@@ -1,9 +1,8 @@
 =========================================
-Reviewing 2014
+NumFOCUS 2014 Review
 =========================================
-:date: 2015-02-07
+:date: 2015-02-09
 :author: Andy R. Terrel
-:status: draft
 
 .. image:: /media/img/articles/2014-Mosaic.png
     :height: 300px
@@ -19,8 +18,8 @@ Perhaps one of the most exciting things that we did this year is expand our lang
 
 In the coming year, we plan to be a great deal more vocal about our activities. Personally, two major goals I have is to expand our reach to Europe and start making headway on project governance recommendations. But that is another story.
 
-.. _John Hunter Technology Fellow: |filename|articles/News/2014-07-01-jh-fellowship-awarded.rst
-.. _please do get in touch: mail://info@numfocus.org
+.. _John Hunter Technology Fellow: |filename|/articles/News/2014-07-01-jh-fellowship-awarded.rst
+.. _please do get in touch: mailto://info@numfocus.org
 .. _PyData conferences: http://pydata.org/
 .. _Training Up: http://training-up.org/
 .. _Software Carpentry: http://software-carpentry.org
